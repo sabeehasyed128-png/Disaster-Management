@@ -1,18 +1,28 @@
 ## Incident-Service
-![alt text](image.png)
-![alt text](image-1.png)
 
-## Team-service
-![alt text](image-2.png)
-![alt text](image-3.png)
+![POST](output/image.png)
+
+![GET](output/image-1.png)
+
+## Team-Service
+
+![POST](output/image-2.png)
+
+![GET](output/image-3.png)
 
 ## Resource-service
-![alt text](image-4.png)
-![alt text](image-5.png)
+
+![POST](output/image-4.png)
+
+![GET](output/image-5.png)
 
 ## Mission-service
-![alt text](image-6.png)
-![alt text](image-7.png)
+
+![POST](output/image-6.png)
+
+![GET](output/image-7.png)
+
 
 ## Alert-Service
-![alt text](image-8.png)
+
+![GET](output/image-8.png)
